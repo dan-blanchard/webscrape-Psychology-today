@@ -1,5 +1,4 @@
 selenium
 lxml
-pandas
 BeautifulSoup4
 jupyter
